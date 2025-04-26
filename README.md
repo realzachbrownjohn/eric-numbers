@@ -31,5 +31,3 @@ for fun and laughs as the reader wonders just how much I must have had to go and
 
 I wrote this code in the earliest four hours of September 26, 2024.
 Eric's original post appears to be deleted, but my original two replies are still online.
-
-- Zachary Brownjohn
